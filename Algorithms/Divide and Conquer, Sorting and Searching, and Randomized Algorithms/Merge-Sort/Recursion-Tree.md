@@ -1,6 +1,7 @@
 # Recursion Tree (Recursive Tree)
 
-## Roughly how many levels does this recursion tree have(as a function of n, the length of the input array)?<br>log2(n)
+## Roughly how many levels does this recursion tree have(as a function of n, the length of the input array)?<br>; log2(n)
+![IMG_0078](https://user-images.githubusercontent.com/43804152/73838651-80e3f880-4857-11ea-87ca-98ac12ed9336.jpg)
 
 The input size is being decreased by a factor two with each level of the recursion. 
 
