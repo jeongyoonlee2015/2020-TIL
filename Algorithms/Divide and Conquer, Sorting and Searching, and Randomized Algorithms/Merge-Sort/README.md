@@ -43,3 +43,5 @@ where we simply take the input array, we split it in half,
 we solve the left half recursively,
 we solve the right half recursively, and then we combine the results.
 ```
+
+### Guiding Principle (2020.02.06.)
