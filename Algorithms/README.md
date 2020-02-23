@@ -5,4 +5,4 @@
 * [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming]()
 * [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them]()
 
-# [Algorithms with SW Expert Academy](https://swexpertacademy.com/main/learn/)
+# [Algorithms with SW Expert Academy](https://swexpertacademy.com)
