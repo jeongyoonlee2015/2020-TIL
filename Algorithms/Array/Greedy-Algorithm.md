@@ -3,12 +3,12 @@
 최적을 수집하여 최종적인 해답을 만들었다고해서 최종도 최적이 되는 건 아님
 e.g. 거스름돈 줄이기
 
-Baby-gin: Greedy Algorithm
--6개의 숫자는 6자리 정수 값으로 입력
--Counts Array의 각 원소 체크하여 run/triplete/Baby-gin 여부 판단
-* Greedy Algorithm 적용
-* Counts Array 에서 run과 triplete중에 가능한 것 조사(사용한 데이터 삭제)
-* 남은데이터를 다시 run과 triplete중에 가능한지 조사
+Baby-gin: Greedy Algorithm <br>
+- 6개의 숫자는 6자리 정수 값으로 입력 <br>
+- Counts Array의 각 원소 체크하여 run/triplete/Baby-gin 여부 판단 <br>
+	* Greedy Algorithm 적용 <br>
+	* Counts Array 에서 run과 triplete중에 가능한 것 조사(사용한 데이터 삭제) <br>
+	* 남은데이터를 다시 run과 triplete중에 가능한지 조사 <br>
 
 ### pseudocode
 ```
