@@ -10,9 +10,9 @@ Baby-gin: Greedy Algorithm
 * Counts Array 에서 run과 triplete중에 가능한 것 조사(사용한 데이터 삭제)
 * 남은데이터를 다시 run과 triplete중에 가능한지 조사
 
+### pseudocode
 ```
 i <- 0, ins <- 0, tri <- 0, run <- 0; 
-
 //인덱스 , 6자리 수에서 수를 추출할 때 사용하는 임시 변수, triplete의 출현 개수,run 출현개수
 
 input_6_numbers // 입력받은 6자리 수
