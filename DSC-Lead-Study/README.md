@@ -10,5 +10,5 @@
 ## [OS](https://github.com/jeongyoonlee2015/2020-TIL/blob/master/DSC-Lead-Study/preparation-OS.md)
 [OS Ref.](https://www.notion.so/410abb3e06b84c7db3ba19bfb5b12e09)<br>
 * 프로세스, 메모리 관리
-[REFERENCE](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+## [REFERENCE](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
