@@ -16,3 +16,22 @@
     * IN0001 Einführung in die Informatik 1
     * IN0007 Grundlagen: Algorithmen und Datenstrukturen
     * IN0008 Grundlagen: Datenbanken
+* [Compare with TUM BSc](https://www.in.tum.de/fuer-studierende/bachelor-studiengaenge/informatik/studienplan/studienbeginn-ab-ws-201819/)
+    * mathematics 
+         * Discrete Structures 
+         * Linear Algebra for Computer Science 
+         * Analysis for Computer Science 
+         * Discrete Probability Theory
+         * Numerical Programming
+    * IT
+         * Introduction to Computer Science 1
+         * Introduction to the computer architecture
+         * Introduction to software engineering
+         * Basics: algorithms and data structures
+         * Basics: Databases
+         * Basics: Operating systems and system software
+         * Functional programming and verification
+         * Basics: Computer Networks and Distributed Systems
+         * Elective Computer Science
+         * Bachelor thesis
+         * Bachelor's Colloquium
