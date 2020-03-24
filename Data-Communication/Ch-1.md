@@ -13,3 +13,22 @@
 
  * Multimedia Oriented - 트래픽의 증가를 야기시켰음
  
+## QoS,QS: Quality of Service
+
+### Changes in Networking Technology - 네트워크의 기술
+* Emergence of high spped LANs (2학기 내용)
+왜 필요? 트래픽 양이 상당히 많아지고 있다.<br>
+
+* Coporate WAN needs
+LAN WAN 차이?<br>
+ - LAN: 수 킬로 미터 = 근거리 네트워크 / 하나의 캠퍼스, 하나의 빌딩 <br>
+ - WAN: 장거리 네트워크 / 국가망 <br>
+각각의 망에서 사용하는 프로토콜이 다름, 사용은 가능하나 효율이 떨어짐 <br>
+
+* Digital electronics
+
+- Convergence(merge) : The merger of previously distinct telephony and information technologies and markets.
+- Layers
+   * applications: these are seen by the end users 
+   * enterprise services: services the information network supplies to support applications 
+   * infrastructure
