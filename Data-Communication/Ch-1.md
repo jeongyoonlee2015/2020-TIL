@@ -27,6 +27,7 @@ LAN WAN 차이?<br>
 
 * Digital electronics
 
+---
 - Convergence(merge) : The merger of previously distinct telephony and information technologies and markets.
 - Layers
    * applications: these are seen by the end users 
