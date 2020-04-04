@@ -23,9 +23,11 @@ Linker Flag <br>
 ```
 No package 'opencv' found
 ```
-<br>
+
 ```
 > brew install opencv@2
+```
+<br>
 Updating Homebrew...
 ==> Installing dependencies for opencv@2: openssl@1.1 and numpy@1.16
 ==> Installing opencv@2 dependency: openssl@1.1
@@ -37,7 +39,6 @@ Updating Homebrew...
 A CA file has been bootstrapped using certificates from the system
 keychain. To add additional certificates, place .pem files in
   /usr/local/etc/openssl@1.1/certs
-
 and run
   /usr/local/opt/openssl@1.1/bin/c_rehash
 
@@ -72,7 +73,6 @@ library (libstdc++ from clang). This may cause problems at runtime.
 ==> Caveats
 opencv@2 is keg-only, which means it was not symlinked into /usr/local,
 because this is an alternate version of another formula.
-
 If you need to have opencv@2 first in your PATH run:
   echo 'export PATH="/usr/local/opt/opencv@2/bin:$PATH"' >> ~/.zshrc
 
@@ -121,13 +121,15 @@ For compilers to find opencv@2 you may need to set:
 For pkg-config to find opencv@2 you may need to set:
   export PKG_CONFIG_PATH="/usr/local/opt/opencv@2/lib/pkgconfig"
 
-```
+
 
 ```
 > brew install opencv3
 Warning: opencv 4.2.0_3 is already installed and up-to-date
 To reinstall 4.2.0_3, run `brew reinstall opencv`
 ```
+
+
 ```
 > cd /usr/local/Cellar/opencv
 jeongyoonlee@ijeong-yun-ui-MacBookPro-108 opencv % > ls
