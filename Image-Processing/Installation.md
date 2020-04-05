@@ -46,7 +46,7 @@ jeongyoonlee@ijeong-yun-ui-MacBookPro-108 opencv % > ls
 ```
 
 ## Result
-Pycharm > Exists > virtualenv > 'opt > anaconda3 > bin > python'
+Pycharm > Exists > virtualenv > 'opt > anaconda3 > bin > python' <br>
 In Anaconda-Navigator > Environments > (Play button) > Open Terminal > Install opencv
 ```
 > pip install opencv-python
