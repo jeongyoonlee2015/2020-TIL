@@ -1,4 +1,9 @@
 # Assignment
+## 1st
+```
+import cv2
+print(cv2.__version__)
+```
 ## 2nd
 ```
 import cv2
@@ -11,4 +16,4 @@ cv2.waitKey()
 cv2.destroyAllWindows()
 ```
 
-## 3rd
+## 3rd : Cases of Computer Vision
