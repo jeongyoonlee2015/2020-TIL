@@ -1,2 +1,2 @@
 # Saarland University
-[Software Debuggin in Udacity](https://classroom.udacity.com/courses/cs259)
+[Software Debugging in Udacity](https://classroom.udacity.com/courses/cs259)
