@@ -1,5 +1,5 @@
 # DSC Solution Challenge 2020
-## GOODI : Supplying information about the benefits for the underprivileged. 
+## GOODIE : Supplying information about the benefits for the underprivileged. 
 
 
 
@@ -13,7 +13,7 @@
 1)	Set the Android and Flutter development environment.
 2)	Download our project in your 'Android Studio Project' directory.
 3)	Install the 'Nox' emulator and run nox_adb.bat file that we made to connect between Android Studio and Nox.
-4)	Click the run button then run 'Goodi'.
+4)	Click the run button then run 'Goodie'.
 
 
 
@@ -28,7 +28,7 @@
 7)	Test the application to end-users (server and receiver) and check the satisfaction. (survey)
 8)	Revise the application according to end-users and stake holder’s opinions.
 9)	Add additional functions such as a community system or SNS.
-10)	Launching  ‘Goodi’ on Google Play.
+10)	Launching  ‘Goodie’ on Google Play.
 
 
-> GOODI Is GOOD Influent :)
+> GOODIE Is GOOD Influent :)
