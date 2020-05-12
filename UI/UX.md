@@ -14,3 +14,11 @@
 4. Credible
 5. Desirable
 6. Accessible
+
+## Guidelines for mobile web UX design
+1. Small screens
+2. Keep navigation simple
+3. Reduce the inputs required from users
+4. Remember mobile connections are not stable
+5. Continuous integrated experiences
+    * mobile and computer
