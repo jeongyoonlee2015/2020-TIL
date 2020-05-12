@@ -31,6 +31,8 @@
 <br>  : Describe exactly how customers will be reached and how products will be presented to them.
 * Build a dynamic sales effort
 <br>  : The word "sales" covers all the issues related to marking contact with your actual customers.
-> <Decision Maker> : 마케팅(영업) 관점에서, No 엔지니어 관점?!
+
+>  * Decision Maker <br> : 마케팅(영업) 관점에서, No 엔지니어 관점?! <br>
+  마케팅 = 축구공
 
 #### Part 3. Writing the business Plan
