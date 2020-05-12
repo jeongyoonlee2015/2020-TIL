@@ -70,3 +70,16 @@
 * Design & Development Plan
 * Operations & Management Plan
 * Financial Factors
+
+## Pitch Deck Model
+1. Cover Slide
+: Company name, Tagline, location, presenter's name, and title
+2. Company purpose and core value proposition
+3. Problem/opportunity and current solution (if any)
+4. Solution: Solution and the value proposition, demo/video and traction (if any)
+5. Market analysis and go-to-market strategy, why now?
+6. Competition and competitive advantage
+7. Business model (How you make money)
+8. Team
+9. Product milestones, financial needs, and projections (set execution)
+10. summary and final inspiration
