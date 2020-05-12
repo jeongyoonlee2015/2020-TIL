@@ -36,3 +36,37 @@
   마케팅 = 축구공
 
 #### Part 3. Writing the business Plan
+* Organize all the relevant information about your business
+* Write the executive summary last
+* Gather all the information together and prepare multiple drafts
+* Sell yourself and your business
+* Present and explain your financial data
+
+## Writing tips to make a great business plan
+
+1. Write from the audience's perspective
+2. Create a vision
+3. Don't ignore your customers
+4. Research the market thoroughly
+5. Attention to detail
+6. Don't underestimate competitors(★★★)
+7. Ensure all key areas are covered in the plan
+8. Be prepared to take risks
+9. Expect the unexpected
+10. Don't skip the plan
+11. Understand the competition
+12. Ensure all key areas are covered in the plan
+> 역지사지<br>
+    - 발전성(no 현상유지) <br>
+    - 비전(비전은 확실하게)
+> 시장상황분석<br>시장분석전략(영업)<br>경쟁사와의 차별화
+> 시장접근방법전략 / 인프라 / 경쟁사 / 누가 프로모션? 어떻게 팔건데?
+    
+## Basic Format of a Business Plan (해당 항목별 상세내용 교재 참고 - 7/6 p.6-9)
+* Executive Summary
+* Business Description
+* Market Strategies
+* Competitive Analysis
+* Design & Development Plan
+* Operations & Management Plan
+* Financial Factors
