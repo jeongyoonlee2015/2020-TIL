@@ -19,7 +19,6 @@ cv2.filter2D()
 # e.g.
 dst = cv2.filter2D(src, ddepth, kernel{, dst, anchor, delta, borderType})
 ```
---------------
 ## Blurring; smoothing
 * 가장 쉬운 방법: 주변 픽셀 값들의 평균을 적용하는 것
 * p.217 [예제 6-1]
@@ -49,11 +48,42 @@ cv2.destroyAllWindows
 dst = cv2.blur(src, ksize[, dst, anchor, borderType])
 # 커널 사이즈는 홀수로 하면 좋다!
 ```
------------
 ## Gaussian blur
 평균이 아닌 가우시안 분포를 갖는 커널로 블러링을 하는 것
 중앙 값이 가장 크고 멀어질수로 그 값이 작아지는 커널을 사용하는 것을 말함
 ```.py
 cv2.GaussianBlur(src, ksize, sigmaX[, sigmaY, borderType])
+# p.221
 ```
+## 미디언 블러링
+
+-----------
+## Edge 검출
+배경과 전경을 분리하는 데 가장 기본적인 작업
+## 샤프닝:
+## 필터
+* 로버츠 교차 필터: 사선 경계 검출 효과를 높였으나 노이즈에 민감하고 엣지 강도가 약함
+* 프리윗 필터: 엣지 강도가 강하고 수직과 수평 엣지를 동등하게 찾는 장점이 있지만 대각선 검출이 약함 
+* 소벨 필터: 중심 픽셀의 차분 비중을 두 배로 주어 수평, 수직 대각선 경계 검출에 모두 강한 마스크
+```.py
+dst = cb2.Sobil{src, ddpth, dx, dy[, dst, ksize, scale, dleta, borderType]}
+```
+* 라플라시안 필터 (oh's p.125)
+
+## 캐니 엣지
+1. 노이즈 제거
+2. 소벨 마스크로 엣지그레디언트 방향 계산
+3. 비최대치 억제
+4. 이력 스레스 홀딩
+```.py
+edges = cv2.Canny(img, threshold1, threshold2[, edges, aperturesSize, L2gardient])
+```
+
+
+
+
+
+
+
+
 
