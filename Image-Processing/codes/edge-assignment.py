@@ -1,3 +1,5 @@
+#과제 내용: original image, 캐니, 소벨 합쳐서 하나로 보이게 코드 작성 후 제출
+
 import cv2
 import numpy as np
 
