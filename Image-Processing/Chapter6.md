@@ -66,7 +66,7 @@ cv2.GaussianBlur(src, ksize, sigmaX[, sigmaY, borderType])
 * 프리윗 필터: 엣지 강도가 강하고 수직과 수평 엣지를 동등하게 찾는 장점이 있지만 대각선 검출이 약함 
 * 소벨 필터: 중심 픽셀의 차분 비중을 두 배로 주어 수평, 수직 대각선 경계 검출에 모두 강한 마스크
 ```.py
-dst = cb2.Sobil{src, ddpth, dx, dy[, dst, ksize, scale, dleta, borderType]}
+dst = cb2.Sobel{src, ddpth, dx, dy[, dst, ksize, scale, dleta, borderType]}
 ```
 * 라플라시안 필터 (oh's p.125)
 
