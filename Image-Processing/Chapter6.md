@@ -1,5 +1,5 @@
 # Image Filter
-
+------------
 ## Filter
 입력 값에서 원하지 않는 값은 걸러내고 원하는 결과만을 얻는다는 의미로 쓰임
 1. 영상의 품격을 높임
@@ -19,3 +19,41 @@ cv2.filter2D()
 # e.g.
 dst = cv2.filter2D(src, ddepth, kernel{, dst, anchor, delta, borderType})
 ```
+--------------
+## Blurring; smoothing
+* 가장 쉬운 방법: 주변 픽셀 값들의 평균을 적용하는 것
+* p.217 [예제 6-1]
+```.py
+import cv2
+import numpy as np
+
+img = cv2.imread('../img.jpg')
+
+#필터 커널 생성하기 case1
+kernel = np.array( )
+
+#필터 커널 생성하기 case2
+kernel = np.ones
+
+#필터 적용
+blured = cv2.filter2D(img, -1, kernel)
+
+# 결과 출력
+cv2.imshow
+cv2,imshow
+cv2.waitKey
+cv2.destroyAllWindows
+```
+
+```.py
+dst = cv2.blur(src, ksize[, dst, anchor, borderType])
+# 커널 사이즈는 홀수로 하면 좋다!
+```
+-----------
+## Gaussian blur
+평균이 아닌 가우시안 분포를 갖는 커널로 블러링을 하는 것
+중앙 값이 가장 크고 멀어질수로 그 값이 작아지는 커널을 사용하는 것을 말함
+```.py
+cv2.GaussianBlur(src, ksize, sigmaX[, sigmaY, borderType])
+```
+
