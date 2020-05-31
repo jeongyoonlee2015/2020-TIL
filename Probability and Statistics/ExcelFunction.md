@@ -14,9 +14,9 @@ NORMDIST 함수는 정규분포와 관련된 함수 중 하나로 정규분포�
      - If Cumulative == TRUE, Return 누적분포함수 
      - If Cumulative == FALSE, Return 확률질량함수
 -------------
-* mean, standard_dev가 숫자가 아니면 NORMDIST에서는 #VALUE! 에러 반환
-* standard_dev <= 0 이면 #NUM! 에러 반환
-* mean = 0, standard_dev = 1이고 cumulative = TRUE이면 NORMDIST 함수가 반환
-* mean = 0, standard_dev = 1이고 cumulative = FALSE이면 정규밀도함수가 반환
-* cumulative = TRUE일 때 주어진 수식을 -∞에서 x까지 적분한 값이 된다.
+> mean, standard_dev가 숫자가 아니면 NORMDIST에서는 #VALUE! 에러 반환
+<br> standard_dev <= 0 이면 #NUM! 에러 반환
+<br> mean = 0, standard_dev = 1이고 cumulative = TRUE이면 NORMDIST 함수가 반환
+<br> mean = 0, standard_dev = 1이고 cumulative = FALSE이면 정규밀도함수가 반환
+<br> cumulative = TRUE일 때 주어진 수식을 -∞에서 x까지 적분한 값이 된다.
 
