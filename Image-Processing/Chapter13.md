@@ -17,3 +17,7 @@
 * Sigmoid function: 미분에 좋은 특성을 가지고 있음
 * Step function(Ideal)
 * ReLu(Rectified Linear Unit): hottest
+
+#### 다차원 배열
+#### 신경망 표기법
+* W(1)12: (1)1층의 가중치, 1: 다음층의 첫번째뉴런 2 앞층의 두번째 뉴런
