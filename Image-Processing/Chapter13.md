@@ -21,3 +21,29 @@
 #### 다차원 배열
 #### 신경망 표기법
 * W(1)12: (1)1층의 가중치, 1: 다음층의 첫번째뉴런 2 앞층의 두번째 뉴런
+* Forward propagation
+* MNIST Data ```load_mnist```
+* Loss Function: 작게 만드는 게 좋음
+  * 평균 제곱 오차(Mean Squared Error, MSE)
+  * 교차 엔트로피 오차(Cross Entropy Error, CEE)
+  * mini batch
+* Numerical Differentiation cf. Analytic Differentiation
+* Computational Graph; CG cf. Backpropagation
+  * [Andrej karpathy](http://karpathy.github.io/) & [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+* Backward Propagation
+* Chain Rule
+* 매개변수의 갱신
+  * SGD
+  * Momentum
+  * AdaGrad(Adative Gradient Algorithm)
+  * Adam
+* 가중치의 초기값
+  * Xavier 초기값
+  * He 초기값(ReLU에 좋음)
+* Batch Normalization
+* Dropout
+* CNN
+  * LeNet
+  * AlexNet
+  * VGG - SSD(Single Shot multibox Detector)
+[참고자료](https://wikidocs.net/61375)
