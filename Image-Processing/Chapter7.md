@@ -1,6 +1,21 @@
-# Chapter 7
+# Chapter 7: 세 개 차이점 꼭 알아두기!!
 
-
+# list, tuple, dictionary
+## list
+* []사용
+* 수정가능
+```.py
+mystock = ['kakao','naver']
+print(mystock[0])
+print(mystock[1])
+```
+## tuple
+* () 사용
+* 수정 불가능
+* 빠름
+## [dictionary](https://github.com/jeongyoonlee2015/2020-TIL/blob/master/Image-Processing/codes/dictionary_simple-application.py)
+* {} 사용
+* ```key:value```형식
 ```.py
 import numpy as np
 exam_dic = {'key1' : 'room1 is my room', 'key2' : 'empty room'}
@@ -11,14 +26,5 @@ print(exam_dic['key2'])
 
 # Ref. https://wikidocs.net/4363
 # list, tuple, dictionary
-
-```
-
-```.py
-
-KaKao_daily_ending_prices = {'2016-02-19' : 92600, '2016-02-20' : 92400, '2016-02-17' : 92100, '2016-02-16' : 94300, '2016-02-15' : 92300}
-print("키:인덱스 // 카카오 주식 예제")
-date = input("날짜를 입력하세요: ")
-print(KaKao_daily_ending_prices[date])
 
 ```
