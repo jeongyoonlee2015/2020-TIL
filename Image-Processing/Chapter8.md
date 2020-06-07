@@ -1,4 +1,4 @@
-# Chapter 13
+# 13주차
 ## Ch.2
 ### Perceptron (Frank Rosenblatt, 1958)(1957)
 * Deep-learning의 기원
