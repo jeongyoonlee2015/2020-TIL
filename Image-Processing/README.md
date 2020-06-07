@@ -9,6 +9,6 @@
 2. Tracking-Learning-Detection
 3. SSD:Single Shot Multibox Detector
 4. Harris Corner's Paper
-
+https://wikidocs.net/4363
 ### 13주
 #### A, B: Deep Learning from Scratch
