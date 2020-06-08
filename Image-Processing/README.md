@@ -6,6 +6,7 @@
 
 ### 12주_B
 1. YOLO: Real-Time Object Detection
+   * 한 번 보고 객체를 인식한다?!
 2. Tracking-Learning-Detection
 3. SSD:Single Shot Multibox Detector
 4. Harris Corner's Paper
