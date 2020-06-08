@@ -4,12 +4,9 @@
 
 * 수업 때 언급하신 논문
 
-### 12주_B
-1. YOLO: Real-Time Object Detection
+1. YOLO: Real-Time Object Detection (5주 첫번째 강의)
    * 한 번 보고 객체를 인식한다?!
 2. Tracking-Learning-Detection
 3. SSD:Single Shot Multibox Detector
 4. Harris Corner's Paper
 https://wikidocs.net/4363
-### 13주
-#### A, B: Deep Learning from Scratch
