@@ -1,4 +1,4 @@
-2# Chapter1. 
+# Chapter1. 
 <br> 영상처리(Image Processing): 영상을 처리한다.
 <br> 처리= 연산
 
