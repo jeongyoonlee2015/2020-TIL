@@ -21,5 +21,5 @@ visdom.__version__
 
 !python train.py --dataroot ./datasets/facades --name facades_pix2pix --model pix2pix --direction BtoA
 ```
- AVG 50s/epoch
+* AVG 50s/epoch <br>
 [Reference](https://leesh0523.tistory.com/entry/PyTorch-example-Cycle-GAN-%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0)
