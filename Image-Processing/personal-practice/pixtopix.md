@@ -22,4 +22,15 @@ visdom.__version__
 !python train.py --dataroot ./datasets/facades --name facades_pix2pix --model pix2pix --direction BtoA
 ```
 * AVG 50s/epoch <br>
+```
+function ClickConnect(){
+    console.log("코랩 연결 끊김 방지"); 
+    document.querySelector("colab-toolbar-button#connect").click() 
+}
+setInterval(ClickConnect, 60 * 1000)
+40s/epoch
+```
+
+### [train.lua](https://github.com/phillipi/pix2pix/blob/4b4621dbeb7f22a0335e1f2fc598a8782b6b7240/train.lua) : 완료epoch 출력
+
 [Reference](https://leesh0523.tistory.com/entry/PyTorch-example-Cycle-GAN-%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0)
