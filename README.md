@@ -9,7 +9,7 @@ with DSC JBNU
 [Preparing DSC Solution Challenge](https://github.com/jeongyoonlee2015/2020-TIL/tree/master/DSCSolutionChallenge-resource)<br>
 [Data Structure](https://github.com/jeongyoonlee2015/2020-TIL/tree/master/DataStructure)<br>
 [Interview-rsc](https://github.com/jeongyoonlee2015/2020-TIL/tree/master/Interview-rsc)<br>
-[UI](https://github.com/jeongyoonlee2015/2020-TIL/tree/master/UI)<br>
+[Software-Debugging](https://github.com/jeongyoonlee2015/2020-TIL/tree/master/Software-Debugging)<br>
 
 
 ### 7th, Summer Semester
@@ -20,6 +20,9 @@ with DSC JBNU
 
 
 ## ETC
+[UI](https://github.com/jeongyoonlee2015/2020-TIL/tree/master/UI)<br>
+
+
 [Engineer information security]()<br>
 [Computer Architecture]()<br>
 [Discrete Mathematics]()<br>
