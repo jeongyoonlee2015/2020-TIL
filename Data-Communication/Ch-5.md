@@ -1,1 +1,1 @@
-# Chapter 5
+# Chapter 5: Signal Encoding Techniques
