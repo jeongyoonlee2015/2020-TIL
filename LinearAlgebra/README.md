@@ -6,7 +6,7 @@
 [Chapter3: Vector Spaces and Subspaces]()<br>
 [Chapter4: Orthogonality]()<br>
 [Chapter5: Determinants]()<br>
-[Chapter6: Eigenvalues and Eigenvectors]()<br>
+~~[Chapter6: Eigenvalues and Eigenvectors]()~~<br>
 - Final Term<br>
 
 
