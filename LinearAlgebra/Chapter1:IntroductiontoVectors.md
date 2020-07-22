@@ -23,3 +23,23 @@
   * u = v/||v||
  * The dot product of a vector with itself gives the lenght of v suared.
 > length = ||v|| = sqrt(v·v)
+
+## The angle between two vectors
+> cosθ = v·w / ||v||||w||<br>
+> ab <= (a^2+b^2)/2
+* The doc prodcut is v·w=0 when v is "perpendicular" to w.
+> ||v||^2 + ||w||^2 = ||v-w||^2
+* Schwarz Inequality
+> |v·w| <= ||v||x||w||
+* Triangle Inequality
+> |v+w| <= ||v||+||w||
+### The zero vector v = 0 is perpendicular to every vector w because 0·w is always zero.
+
+## Matrices
+## Linear Equations
+* Ax = b -> b = Ax
+## The Inverse Matrix
+* Ax = b is solved by x = A^-1b = Sb
+## Cyclic Difference
+* The linear combinations of um vm w* lead to a cyclic difference matrix C
+  * Actually it is impossible to find the solution to Cx = b, because the three equations either have infinitely many solutions or else no solution.
