@@ -43,3 +43,10 @@
 ## Cyclic Difference
 * The linear combinations of um vm w* lead to a cyclic difference matrix C
   * Actually it is impossible to find the solution to Cx = b, because the three equations either have infinitely many solutions or else no solution.
+  
+## Independence and Dependence
+* The vectors go into the columns of an n by n matrix:
+  * Independent columns: Ax = 0 has one solution. A is an Invertible matrix.
+  * Dependent columns: Ax = 0 has many solutions. A is a singular matrix.
+  
+  
