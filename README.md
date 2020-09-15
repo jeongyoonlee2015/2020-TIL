@@ -12,18 +12,24 @@ with DSC JBNU
 [Software-Debugging](https://github.com/jeongyoonlee2015/2020-TIL/tree/master/Software-Debugging)<br>
 
 
-### 7th, Summer Semester
-[Data Communication](https://github.com/jeongyoonlee2015/2020-TIL/tree/master/Data-Communication)<br>
-[Image Processing](https://github.com/jeongyoonlee2015/2020-TIL/tree/master/Image-Processing)<br>
-[Linear Algebra](https://github.com/jeongyoonlee2015/2020-TIL/tree/master/LinearAlgebra)<br>
-[Probability and Statistics](https://github.com/jeongyoonlee2015/2020-TIL/tree/master/Probability%20and%20Statistics)<br>
 
 
 ## ETC
 [UI](https://github.com/jeongyoonlee2015/2020-TIL/tree/master/UI)<br>
 
+For my Lectures
+[LISP](http://ocw.kookmin.ac.kr/?course=15463)<br>
+[LISP with AI](http://www.kocw.net/home/cview.do?cid=b922426443d9df10)<br>
+[Racket](https://school.racket-lang.org/2019/plan/wed-mor-lecture.html)<br>
 
-[Engineer information security]()<br>
-[Computer Architecture]()<br>
-[Discrete Mathematics]()<br>
-
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
+[]()<br>
