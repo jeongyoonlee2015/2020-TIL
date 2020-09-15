@@ -17,12 +17,11 @@ with DSC JBNU
 ## ETC
 [UI](https://github.com/jeongyoonlee2015/2020-TIL/tree/master/UI)<br>
 
-For my Lectures
+### For my Lectures
 [LISP](http://ocw.kookmin.ac.kr/?course=15463)<br>
 [LISP with AI](http://www.kocw.net/home/cview.do?cid=b922426443d9df10)<br>
 [Racket](https://school.racket-lang.org/2019/plan/wed-mor-lecture.html)<br>
-
-[]()<br>
+[SICP](https://source-academy.github.io/sicp/)<br>
 []()<br>
 []()<br>
 []()<br>
