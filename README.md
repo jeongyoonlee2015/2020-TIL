@@ -22,7 +22,7 @@ with DSC JBNU
 [LISP with AI](http://www.kocw.net/home/cview.do?cid=b922426443d9df10)<br>
 [Racket](https://school.racket-lang.org/2019/plan/wed-mor-lecture.html)<br>
 [SICP](https://source-academy.github.io/sicp/)<br>
-[]()<br>
+[Scheme](https://groups.csail.mit.edu/mac/projects/scheme/)<br>
 []()<br>
 []()<br>
 []()<br>
