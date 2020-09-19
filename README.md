@@ -23,9 +23,9 @@ with DSC JBNU
 [Racket](https://school.racket-lang.org/2019/plan/wed-mor-lecture.html)<br>
 [SICP](https://source-academy.github.io/sicp/)<br>
 [Scheme](https://groups.csail.mit.edu/mac/projects/scheme/)<br>
-[]()<br>
-[]()<br>
-[]()<br>
+[The Scheme Programming Language - Fourth Edition](https://www.scheme.com/tspl4/)<br>
+[Scheme Tutorial1](http://www.cs.rpi.edu/academics/courses/fall00/ai/scheme/reference/Scheme.html)<br>
+[Scheme Tutorial2](http://www.shido.info/lisp/idx_scm_e.html)<br>
 []()<br>
 []()<br>
 []()<br>
