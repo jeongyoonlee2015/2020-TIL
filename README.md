@@ -12,11 +12,6 @@ with DSC JBNU
 [Software-Debugging](https://github.com/jeongyoonlee2015/2020-TIL/tree/master/Software-Debugging)<br>
 
 
-
-
-## ETC
-[UI](https://github.com/jeongyoonlee2015/2020-TIL/tree/master/UI)<br>
-
 ### For my Lectures
 [LISP](http://ocw.kookmin.ac.kr/?course=15463)<br>
 [LISP with AI](http://www.kocw.net/home/cview.do?cid=b922426443d9df10)<br>
