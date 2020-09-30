@@ -2,7 +2,8 @@
 1. 시스템 날짜 & 시각
 ```.bash
 $ date #mon day h m year
-$ date -d '-10day'# 확인해보기
+$ date MMddhhmmyyyyss
+$ date -date '-10day'# 확인해보기
 $ date -s '10dayago' # 확인해보기
 $ timedatectl #timedatecontrol
 $ cal
@@ -24,6 +25,7 @@ $ who am i
 ```
 3. 리눅스 시스템 정보
 ```.bash
+$ w # 시스템에 로그인한 사용자와 현재 무엇을 하는지 출력
 $ uname
 $ uname -a #모든 정보 확인
 $ uname -m #machine
@@ -34,8 +36,10 @@ $ arch # hardware information
 $ env # 환경변수
 $ echo # 문자열 표준 출력
 $ echo Have a good time
-$ echo -e Have a good time. "\n" Nice good day.
-$ which # 명령어가 존재하는 디렉터리 경로 확인
+$ echo -e Have a good time. "\n" Nice good day. # -e:이스케이프 문자 사용 가능(\b:백스페이스, \n:줄바꿈, \\:역슬래시 출력 등)
+$ which 
+# 명령어가 존재하는 디렉터리 경로 확인 which echo -> /usr/bin/echo 출력 
+# find와의 차이점 : which는 환경 변수에 설정되어 있는 실행 경로(path)만 검색
 $ which echo
 $ which cp
 $ which mv
@@ -55,5 +59,10 @@ $ ls -al
 5. 디렉터리 관리 명령어
 ```.bash
 $ pwd
-
 ```
+
+### 실습
+* 지금까지 사용한 모든 명령들의 목록 출력 : history
+* 수행했던 라인번호 3의 명령을 다시 실행 : !3
+* 사용한 명령들 중 라인번호 5번만 삭제 : history –d 5
+* 수행했던 명령들을 한꺼번에 모두 삭제 : history -c
