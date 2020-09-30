@@ -7,8 +7,31 @@
 * init 
   * init은 모든 프로세스의 최상의 부모 프로세스
   * 커널이 제일 먼저 실행시키는 프로세스이므로 무조건 PID 1
-    > 부모프로세스: 프로세스가 다른 프로세스를 새로 실행시키면 실행시킨 프로세스
+    > 부모프로세스: 프로세스가 다른 프로세스를 새로 실행시키면 실행시킨 프로세스 <br>자식프로세스: 새로 실행된 프로세스 <br> PID(Process ID): 프로세스에서 자기 고유 번호 <br>PPID(Parent Process ID): 자신을 실행시킨 부모 프로세스의 고유 번호
+    
+### 리눅스 시스템의 시작과 종료
+1. 시작
 
+2. 종료
+
+* 종료 명령을 사용하지 않고 전원을 끄면 안 됨
+```.bash
+# shutdown -h now
+# /sbin/shutdown [-krhfc][-t sec]time[경고메시지]
+# -h: 셧다운 후 시스템 정지
+````
+    * 현재부터 10분 후에 시스템을 종료하는 명령은?: shutdown -h 10
+    * 현재부터 3분 후에 'System is going down'이라는 메시지를 전달하고 종료하는 명령은?: shutdown +3 "System is going down"
+    * 시스템 종료 후 재부팅을 하려는 명령은?: shutdown -r now
+* halt
+    * shutdown -h now와 같은 명령
+```.bash
+# /sbin/haltw
+```
+
+
+
+### 명령어 정리
 1. 시스템 날짜 & 시각
 ```.bash
 $ date #mon day h m year
