@@ -1,4 +1,14 @@
 # Temporary Linux commands (Private Repo로 이동 예정)
+
+### 리눅스의 부팅과정
+* LILO(Linux Loader)
+  * 커널을 메모리에 적재
+  * 리눅스 부팅하려면 반드시 LILO 필요
+* init 
+  * init은 모든 프로세스의 최상의 부모 프로세스
+  * 커널이 제일 먼저 실행시키는 프로세스이므로 무조건 PID 1
+    > 부모프로세스: 프로세스가 다른 프로세스를 새로 실행시키면 실행시킨 프로세스
+
 1. 시스템 날짜 & 시각
 ```.bash
 $ date #mon day h m year
