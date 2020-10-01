@@ -22,7 +22,7 @@ with DSC JBNU
 [Scheme Tutorial1](http://www.cs.rpi.edu/academics/courses/fall00/ai/scheme/reference/Scheme.html)<br>
 [Scheme Tutorial2](http://www.shido.info/lisp/idx_scm_e.html)<br>
 [Principles of Programming](http://ropas.snu.ac.kr/~kwang/4190.210/mooc/)<br>
-[]()<br>
+[Original MIT 6.001](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)<br>
 []()<br>
 []()<br>
 []()<br>
